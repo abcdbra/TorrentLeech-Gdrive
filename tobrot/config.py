@@ -3,17 +3,18 @@ from tobrot.sample_config import Config
 #read readme too before filling these stuffs
 
 class Config(Config):
-    TG_BOT_TOKEN= "1581011965:AAEy7O3dQwbgs-v5gvraHpQ5AAJ3GaVrH08" #imp
-    APP_ID = 1733305 #imp
-    API_HASH = "f423cffca6b5b7247b31b5b0df61f48d" #imp
-    AUTH_CHANNEL = [-1001266398622, 1156597097] #imp replace your_id with your id from telegram or delete
-    GLEECH_COMMAND = "gleech@torlechlkbot"
-    YTDL_COMMAND = 'ytdl@torlechlkbot'
-    TELEGRAM_LEECH_COMMAND_G = "tleech@torlechlkbot"
+    TG_BOT_TOKEN= "1652454404:AAEY6AEjy_zIsKkxPLfB9St2PQAwXKB9R3s" #imp
+    APP_ID = 1247820 #imp
+    API_HASH = "16a8d09ae2a411de3cc51d244086e2fb" #imp
+    AUTH_CHANNEL = [-1001219840825, 824585001] #imp replace your_id with your id from telegram or delete
+    GLEECH_COMMAND = "gleech"
+    YTDL_COMMAND = 'ytdl'
+    TELEGRAM_LEECH_COMMAND_G = "tleech"
     CLONE_COMMAND_G = "gclone"
     PYTDL_COMMAND_G = "pytdl"
     DESTINATION_FOLDER = "Download"
-    LEECH_COMMAND = "leech@torlechlkbot"
+    LEECH_COMMAND = "leech"
+    CANCEL_COMMAND = "cancel"
     INDEX_LINK = "https://allinone.darkkali614.workers.dev/0:"
     RCLONE_CONFIG = """
 [kmac]
