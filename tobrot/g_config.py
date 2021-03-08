@@ -5,12 +5,12 @@ from tobrot.sample_config import Config
 #FOR CUSTOM COMMANDS READ REAME AND FILL THEM...
 
 class Config(Config):
-    TG_BOT_TOKEN= "1581011965:AAEy7O3dQwbgs-v5gvraHpQ5AAJ3GaVrH08"
-    APP_ID = 1733305
-    API_HASH = "f423cffca6b5b7247b31b5b0df61f48d"
-    OWNER_ID = 1156597097
-    AUTH_CHANNEL = [-1001266398622]
-    DESTINATION_FOLDER = "DOWNLOAD" #Name of your folder read readme(not id of the folder)
+    TG_BOT_TOKEN= "1652454404:AAEY6AEjy_zIsKkxPLfB9St2PQAwXKB9R3s"
+    APP_ID = 1247820
+    API_HASH = "16a8d09ae2a411de3cc51d244086e2fb"
+    OWNER_ID = 824585001
+    AUTH_CHANNEL = [-1001219840825]
+    DESTINATION_FOLDER = "" #Name of your folder read readme(not id of the folder)
     INDEX_LINK = "https://allinone.darkkali614.workers.dev/0:/"
     RCLONE_CONFIG = """
 [kmac]
